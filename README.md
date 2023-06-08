@@ -2,7 +2,7 @@
 * Fifth year student of computer science engineering at Universidad de Chile.
 
 
-Skills 🛠️
+## Skills 🛠️
 * Languages:  Python, C, C++, Javascript, Java, SQL, HTML, CSS
 * RDBMS:    PostgresSQL, MySQL
 * Tools:   Arduino, Raspberry pi, Git
