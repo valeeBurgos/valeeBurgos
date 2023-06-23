@@ -1,4 +1,4 @@
-## Educación
+## Education
 * Fifth year student of computer science engineering at Universidad de Chile.
 
 
