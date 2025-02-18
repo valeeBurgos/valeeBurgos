@@ -23,6 +23,6 @@
 - 🌐 React
 
 ## 📞 Contact
-- 🔗 [LinkedIn](www.linkedin.com/in/valeria-burgos-sanhueza)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/valeria-burgos-sanhueza)
 
 
