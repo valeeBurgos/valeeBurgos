@@ -1,10 +1,28 @@
-## Education
-* Fifth year student of computer science engineering at Universidad de Chile.
+# 👋 Hello! I'm Valeria.
 
+## 📚 Education
+- 🎓 Civil Engineer in Computer Science - University of Chile
 
-## Skills 🛠️
-* Languages:  Python, C, C++, Javascript, Java, SQL, HTML, CSS
-* RDBMS:    PostgresSQL, MySQL
-* Tools:   Arduino, Raspberry pi, Git
-* Frameworks: Django, React Native, React
+## 💻 Programming Languages
+- 🐍 Python
+- 📜 JavaScript
+- ☕ Java
+
+## 🗄️ Relational Databases (RDBMS)
+- 🛢️ PostgreSQL
+- 🛢️ MySQL
+
+## 🛠️ Tools
+- ⚙️ Arduino
+- 🍓 Raspberry Pi
+- 🖥️ Git
+
+## 🚀 Frameworks
+- 🌍 Django
+- 📱 React Native
+- 🌐 React
+
+## 📞 Contact
+- 🔗 [LinkedIn](www.linkedin.com/in/valeria-burgos-sanhueza)
+
 
